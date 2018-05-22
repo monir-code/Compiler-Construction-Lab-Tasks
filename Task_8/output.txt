@@ -1,0 +1,7 @@
+The Grammar after left recursion elimination: 
+
+E->TE'
+E'->+TE'|î
+T->FT'
+T'->*FT'|î
+F->(E)|id

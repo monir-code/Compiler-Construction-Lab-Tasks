@@ -1,0 +1,21 @@
+//this is a single line comment
+//this is a single line comment
+//this is a single line comment
+//this is a single line comment
+
+/*
+Multi line Comment
+Multi line Comment
+Multi line Comment
+Multi line Comment
+*/
+
+/*
+Multi line Comment
+Multi line Comment
+Multi line Comment
+/***/
+Hello
+*/
+
+// Hii

@@ -1,0 +1,15 @@
+if
+else
+while
+123
+123.3
+123deef
++
+-
+*
++-/
+3.3
+3.3dfe
+def3
+def3.3
+Hello 3by10

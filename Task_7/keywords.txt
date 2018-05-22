@@ -1,0 +1,19 @@
+Keywords:
+
+int
+long
+double
+float
+bool
+virtual
+
+Comments:
+ its good
+ nice job for the task
+
+Operators:
++
+*
+=
+/
+-

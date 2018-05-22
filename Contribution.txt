@@ -1,0 +1,44 @@
+
+
+
+Everyone of the group has completed task 1,2 & 3
+
+Tanmoy	41		=>   1,2,3, 5,10,11,17
+
+Mehadi	49		=>   1,2,3, 6,14,15,16
+
+Yusuf 	46 		=>   1,2,3, 2,4, 8, 9
+
+Monir  55      	        =>   1,2,3, 4,5,10, 16
+
+Opu  73 	        =>   1,2,3, 7,11,12,13
+
+
+
+
+
+SOME TASKS HAVE BEEN DONE in more than 1 versions. Each version is done individually  by specific team member named below.:
+
+Task 6:   version 1: Tanmoy  version 2: Mehadi
+
+Task 11:      ver 1: Opu  	 ver 2: Tanmoy
+
+Task 16:     ver 1: Mehadi   ver 2: Monir
+
+Task  4:     ver 1: Yousuf    ver 2:Monir
+
+Task 5 :     ver 1: Tanmoy    ver 2: monir
+
+Task 8:      ver 1: Yousuf
+
+Task 10:     ver 1: Tanmoy
+
+
+
+EXTRA TASKS
+
+1. DFA simulation
+2. 12-15 lex and bison programs practiced at home
+3. NFA simulation
+4. parser for a grammar using lex and yacc 
+5. Infix to postfix expression using lex and yacc
