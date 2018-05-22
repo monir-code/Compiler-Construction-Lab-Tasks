@@ -6,5 +6,5 @@ https://www.regextester.com/
 
 
 The Solutions of the major tasks in Compiler construction Lab.
-The tasks were done under the supervision of Mr Mehedi Hasan Nahid (Lecturer, Dep`t of CSE, SUST). 
+The tasks were done under the supervision of Md Mehedi Hasan Nahid (Lecturer, Dep`t of CSE, SUST). 
 
